@@ -12,7 +12,7 @@ Software Engineering ist die Entwicklung, die Pflege und der Einsatz qualitativ 
 
 2. Schneller technologischer Fortschritt: Die rasche Entwicklung neuer Technologien und Frameworks bedeutet, dass Entwickler ständig neue Fähigkeiten erlernen und sich an veränderte Entwicklungsstandards und -praktiken anpassen müssen. Dies erhöht die Komplexität, da neue Technologien oft mit eigenen Herausforderungen und Problemen kommen.
 
-3. Integration von Systemen und APIs: Moderne Softwarelösungen interagieren oft mit einer Vielzahl von externen Systemen und APIs, um Daten auszutauschen oder Funktionen bereitzustellen. Die Integration dieser Systeme erfordert komplexe Schnittstellen und Kommunikationsmechanismen, die zu erhöhter Komplexität führen.
+3. Integration von Systemen und APIs: Moderne Softwarelösungen interagieren oft mit einer Vielzahl von externen Systemen und APIs, um Daten auszutauschen oder Funktionen bereitzustellen. Die Integration dieser Systeme erfor dert komplexe Schnittstellen und Kommunikationsmechanismen, die zu erhöhter Komplexität führen.
 
 ### Nicht-technische Gründe:
 
@@ -54,6 +54,24 @@ Ein Softwareingenieur vernachlässigt kontinuierliche Weiterbildung und beruflic
 
 1. **Projektgemäßigkeit der Definition**:
    - Eclipse kann als Projekt gemäß der gegebenen Definition betrachtet werden. Es handelt sich um eine Initiative zur Entwicklung und Pflege einer qualitativ hochwertigen Entwicklungsumgebung für Software. Eclipse wird von einer Gemeinschaft von Entwicklern unterstützt und verwendet wissenschaftliche Methoden sowie geplante Vorgehensmodelle, um kontinuierlich neue Funktionen zu entwickeln und vorhandene Funktionen zu verbessern.
+
+   neu von Alex:
+   In sich inhaltliches abgeschlossenes Vorhaben, in dem neuartige und unbekannte Probleme gelöst werden:
+      Ja, dedizierte IDE für Java
+   Ein Projektteam:
+      Ja
+   Klare Ziele:
+      Ja, dedizierte IDE für Java
+   Beinhaltet eine oder mehrere Phasen:
+      Ja, es gab verschiedene Versionen und Erneuerungen
+   Unterschiedliche Methoden:
+      Ja, es gibt verschiedene Arten für verschiedene Anwendungsbereiche
+   Besonderes Risiko:
+      Ja, großes und kostenungünstiges Projekt
+   Zeitlich begrenzt:
+      Ja, wahrscheinlich
+   Eigenes Budget:
+      Ja, 40 Millionen 
 
 2. **Klassifizierung des Projekts**:
    - **Größe**: Eclipse ist ein großes Projekt, das von einer umfangreichen Entwicklergemeinschaft unterstützt wird und eine Vielzahl von Funktionen und Erweiterungen bietet.
